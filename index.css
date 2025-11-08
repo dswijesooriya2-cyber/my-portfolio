@@ -47,7 +47,7 @@ nav ul li a:hover {
   text-shadow: 0 0 10px #00ffff;
 }
 
-/* === HOME SECTION === */
+
 #home {
   min-height: 100vh;
   display: flex;
@@ -115,7 +115,7 @@ nav ul li a:hover {
   box-shadow: 0 0 40px #00ffff;
 }
 
-/* === ABOUT === */
+
 #about {
   padding: 100px 50px;
   background: #111827;
@@ -163,7 +163,6 @@ nav ul li a:hover {
   box-shadow: 0 0 15px #00ffff;
 }
 
-/* === EDUCATION === */
 #education {
   background: #0d0d0d;
   padding: 100px 20px;
@@ -223,11 +222,14 @@ nav ul li a:hover {
   box-shadow: 0 0 25px #00ffff;
 }
 
-/* === EXPERIENCE & PROJECTS === */
+
 #experence, #projects {
   background: #0a0a0a;
   padding: 100px 20px;
   text-align: center;
+}
+#projects {
+  
 }
 
 #experence h1, #projects h1 {
